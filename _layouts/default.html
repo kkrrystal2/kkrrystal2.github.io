@@ -6,7 +6,7 @@
   <meta name="google-site-verification" content="aexITLS38FdIRzwj25OVWxm87rpa9l-UV0URTyC9cTs" />
   <title>
     {{ page.title }}
-    {% if page.category == 'blog' and page.url != '/category/index.html' %}
+    {% if page.category == 'posts' and page.url != '/category/index.html' %}
     - Yong Yuan
     {% endif %}
   </title>
@@ -14,7 +14,7 @@
   <link href="//cdn.bootcss.com/font-awesome/4.4.0/css/font-awesome.css" rel="stylesheet">
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
   {% if page.description %}<meta name="description" content="{{page.description}}" />{% endif %}
-  <link href="/blog/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts (atom)" />
+  <link href="/posts/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts (atom)" />
 
   {% if page.url == '/index.html' %}
     <link rel="alternate" hreflang="en" href="/" />
