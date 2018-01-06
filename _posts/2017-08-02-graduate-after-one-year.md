@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 知行手记：毕业一周年
-categories: [知行手记]
+categories: posts infovis
+permalink: /:categories/:title.html
 tags: 生活
 ---
 
