@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Jekyll主题收藏
-categories: posts rwd
-permalink: /:categories/:title.html
+categories: [Jekyll]
 tags: web笔记
 ---
 
