@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS调整图片居中显示
-categories: posts rwd
+categories: rwd
 permalink: /:categories/:title.html
 tags: web笔记
 ---
