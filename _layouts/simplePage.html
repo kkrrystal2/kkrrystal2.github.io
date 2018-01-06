@@ -7,7 +7,7 @@
   <title>
     {{ page.title }}
     {% if page.category == 'posts' and page.url != '/posts/index.html' %}
-    - Yong Yuan
+    - Gan Yu
     {% endif %}
   </title>
   <link rel="stylesheet" href="../css/site.css">
@@ -43,7 +43,7 @@
       {% elsif page.url == '/cn/project' %}
       <nav>
         <a class="{% if page.category == 'about-zh' %} selected {% endif %}" href="/cn/">关于</a>
-        <a class="{% if page.category == 'infovis-zh' %} selected {% endif %}" href="/cn/project">可视化作品集</a>
+        <a class="{% if page.category == 'infovis-zh' %} selected {% endif %}" href="/cn/project">infovis</a>
         <a class="{% if page.category == 'posts' %} selected {% endif %}" href="/posts/">文章</a>
         <a href="https://github.com/willard-yuan">Github</a>
       </nav>
