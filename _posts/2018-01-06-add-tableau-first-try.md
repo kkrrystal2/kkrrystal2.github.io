@@ -14,6 +14,7 @@ Tableau支持多种数据文件格式与多种数据库。以下是Tableau Deskt
 ![](http://img.blog.csdn.net/20160324153436306?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
 
 1.Tablea可以直接把数据拉入界面，也可以根据数据源选择连接方式。
+
 2.本学期，我们主要是学习（练习最多）将两种不同的数据（有联系的）连接在一起，转成图或表，进而观察分析两种数据的关系。
 
 
