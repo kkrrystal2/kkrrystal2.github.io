@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣、好玩、有料的网站收藏
-categories: posts rwd
+categories: rwd
 permalink: /:categories/:title.html
 tags: web笔记
 ---
