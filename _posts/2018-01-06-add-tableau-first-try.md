@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Tableau初尝试
-categories: [infovis]
+categories: infovis
+permalink: /:categories/:title.html
 tags: infovis
 ---
 
