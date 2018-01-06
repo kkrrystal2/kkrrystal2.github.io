@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll主题收藏
 categories: [Jekyll]
+permalink: /:categories/:title.html
 tags: web笔记
 ---
 
