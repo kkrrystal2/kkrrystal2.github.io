@@ -5,7 +5,7 @@ description:  I am Gan Yu.
 url: https://kkrrystal2.github.io/
 
 # 自定义post url
-permalink: /category/:title.html
+permalink: /categories/:title.html
 timezone: Asia/Guangzhou
 
 # Overriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
