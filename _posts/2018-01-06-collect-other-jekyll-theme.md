@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll主题收藏
-categories: [Jekyll]
+categories: infovis
 permalink: /:categories/:title.html
 tags: web笔记
 ---
