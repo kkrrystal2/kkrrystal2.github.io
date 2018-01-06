@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 深度学习：Neural Network Layers Understanding
-categories: [Deep Learning]
+categories: posts infovis
+permalink: /:categories/:title.html
 tags: DL
 ---
 
