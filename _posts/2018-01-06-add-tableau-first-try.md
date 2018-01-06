@@ -9,7 +9,13 @@ tags: 前端
 
 Tableau Desktop是Tableau Desktop是Tableau公司开发的桌面系统中最简单的商业智能工具软件。里面有关于Tableau的免费培训视频，也有视频对应下的练习簿，可以方便的现学现试。[Tableau免费培训视频](https://www.tableau.com/zh-cn/learn/training?build=10300.17.0728.2252&edition=pro&lang=zh-cn&platform=windows&version=10.3)
 
-Tableau支持多种数据文件格式与多种数据库，以下是Tableau Desktop的页面
+Tableau支持多种数据文件格式与多种数据库。以下是Tableau Desktop的页面：
 
-![](http://ose5hybez.bkt.clouddn.com/2017/1029/sift_matching_diff.jpg) 
+![](http://img.blog.csdn.net/20160324153436306?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+1.Tablea可以直接把数据拉入界面，也可以根据数据源选择连接方式。
+2.本学期，我们主要是学习（练习最多）将两种不同的数据（有联系的）连接在一起，转成图或表，进而观察分析两种数据的关系。
+
+
+
 
