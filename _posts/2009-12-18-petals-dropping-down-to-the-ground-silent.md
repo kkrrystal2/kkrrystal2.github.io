@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 知行手记：闲花落地听无声
-categories: [Life]
+categories: posts infovis
 tags: 生活
 ---
 
