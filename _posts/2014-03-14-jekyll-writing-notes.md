@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 写作技艺：Jekyll写作技巧小札
-categories: [Jekyll]
+categories: posts rwd
+permalink: /:categories/:title.html
 tags: Jekyll
 ---
 
