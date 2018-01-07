@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用shadowbox.js为图片添加阴影效果
+title: 为图片添加阴影效果
 categories: rwd
 permalink: /:categories/:title.html
 tags: 图片外框添加阴影效果挺美观的,结合老师上课教授的知识点,发现以下知识点
