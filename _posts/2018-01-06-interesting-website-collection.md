@@ -3,10 +3,10 @@ layout: post
 title: 有趣、好玩、有料的网站收藏
 categories: rwd
 permalink: /:categories/:title.html
-tags: web笔记
+tags: 在做网页之前找了许多模板，已现阶段我们所学的知识和工具，做了一个网页模板总结
 ---
 
-本来想给自己做得独有的导航的，不过一直没时间折腾，先把本小子觉得有趣、好玩、有料的站点收藏起来。这些站点本小子会经常光顾，主要是一些学习进阶方面的站点。
+
 
 ## 前端
 
@@ -22,6 +22,4 @@ tags: web笔记
 
 [CVpapers](http://www.cvpapers.com/index.html)：Computer Vision Resource
 
-## 游戏开发
 
-[Pygame写游戏](http://eyehere.net/2011/python-pygame-novice-professional-index/)：用Python和Pygame写游戏-从入门到精通
