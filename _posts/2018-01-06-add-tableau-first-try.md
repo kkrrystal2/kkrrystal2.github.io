@@ -3,7 +3,7 @@ layout: post
 title: Tableau初尝试
 categories: infovis
 permalink: /:categories/:title.html
-tags: infovis
+tags: 最开始接触信息可视化练习的方法是从免费培训视频开始
 ---
 
 最开始接触信息可视化的工具是Tableau。当看到一大堆数据的时候，普通人是不会在数据面前停留多少时间的，但当你把数据可视化之后，就比较容易分析比较，得出结论。
