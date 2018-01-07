@@ -3,7 +3,7 @@ layout: post
 title: Jekyll主题收藏
 categories: rwd
 permalink: /:categories/:title.html
-tags: 在做网页之前找了许多模板，已现阶段我们所学的知识和工具，做了一个网页模板总结。
+tags: 在做网页之前找了许多模板，以现阶段我们所学的知识和工具，做了一个网页模板总结。
 ---
 
 > 从wordpress都现在的jekyll，博客采用的平台及其主题一直处于变更状态。从开始接触jekyll都现在正式敲定主题，找到了一些简约、大方、美观的jekyll主题，在这里做一下记录，收藏一下,某天或许要修改模板了，或许可以直接在这些模板的基础上改进。
