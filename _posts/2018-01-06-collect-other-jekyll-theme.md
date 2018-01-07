@@ -3,10 +3,10 @@ layout: post
 title: Jekyll主题收藏
 categories: rwd
 permalink: /:categories/:title.html
-tags: web笔记
+tags: 在做网页之前找了许多模板，已现阶段我们所学的知识和工具，做了一个网页模板总结。
 ---
 
-> 从wordpress都现在的jekyll，博客采用的平台及其主题一直处于变更状态。一方面本小子喜爱折腾，另一方面，随着浏览的网页多了，本小子审美似乎也在不断的提升。从开始接触jekyll都现在正式敲定主题，本小子在寻找主题的过程了，找到了一些简约、大方、美观的jekyll主题，在这里做一下记录，收藏一下,某天或许要修改模板了，或许可以直接在这些模板的基础上改进。
+> 从wordpress都现在的jekyll，博客采用的平台及其主题一直处于变更状态。从开始接触jekyll都现在正式敲定主题，找到了一些简约、大方、美观的jekyll主题，在这里做一下记录，收藏一下,某天或许要修改模板了，或许可以直接在这些模板的基础上改进。
 
 ## 项目模板
 
@@ -65,4 +65,4 @@ tags: web笔记
 
 2. [Jekyll wiki site](https://github.com/jekyll/jekyll/wiki/Sites),表单上列举了很多采用Jekyll模板的网站，可以在这里面找别人的模板，fork过来就可以用了。
 
-3. [掌心](http://www.zhanxin.info/themes.html),在该页，作者提供了几个自己制作的Jekyll主题，其中有几个本小子很喜欢。
+3. [掌心](http://www.zhanxin.info/themes.html),在该页，作者提供了几个自己制作的Jekyll主题。
