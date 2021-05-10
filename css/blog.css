@@ -233,7 +233,7 @@ img {
 
 .sidebox .sidebar {
     color: #666;
-    border-left: 0.4em solid #48C9B0;
+    border-left: 0.4em solid ##78a4b9;
 }
 
 ul.posts li {
@@ -248,7 +248,7 @@ ul.posts li {
     list-style-type: none;
     display: block;
     text-decoration: none;
-    color: #48C9B0;
+    color: #78a4b9;
     font-size:x-large;
     margin-top: 40px;
     margin-bottom: 20px;
@@ -294,7 +294,7 @@ padding-top: 20px;
   cursor: pointer;
   margin: 0 4px 7px 0;
   color: #e74c3c!important;
-  border: 1px solid #48C9B0;
+  border: 1px solid ##78a4b9;
   padding: 1px 6px;
   text-decoration: none;
 }
